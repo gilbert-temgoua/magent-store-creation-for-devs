@@ -1,0 +1,1 @@
+# Magento store creation for devs
